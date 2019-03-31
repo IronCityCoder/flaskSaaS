@@ -25,3 +25,7 @@ def map_refresh():
 @app.route('/contact')
 def contact():
     return render_template('contact.html', title='Contact')
+
+@app.route('/search')
+def search():
+    return render_template('search.html', title='Search')
