@@ -4,6 +4,8 @@
 
 A fork of [Max Halford's](https://github.com/MaxHalford) [flask-boilerplate](https://github.com/MaxHalford/flask-boilerplate). 
 
+VIEW OUR WEBSITE [HERE](https://fastidea.herokuapp.com/index)
+
 ## Features
 
 - [x] User account sign up, sign in, password reset, all through asynchronous email confirmation.
